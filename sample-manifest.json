@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e75ced8b-fdec-4474-8427-fd67e04d51b7",
+  "id_short": 488326,
+  "published_at": "2026-04-12T19:27:33Z",
+  "repo_name": "all-restaurants-in-beaverton-oregon-us-sample-488326",
+  "sample_asset_name": "beamstation_488326_restaurants-us-or_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/488326/beamstation_488326_restaurants-us-or_SAMPLE_DIST.csv",
+  "sample_records": 50,
+  "sample_sha256": "28ff7f76f2f9615a593219f1e8f13a163495e9f81bd0463168a0b300ccef3bdc",
+  "sample_size_bytes": 191472,
+  "total_records": 508
+}
