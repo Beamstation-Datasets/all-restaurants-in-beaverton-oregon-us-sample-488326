@@ -1,6 +1,6 @@
 # All Restaurants in Beaverton, Oregon, US
 
-> Free BeamStation sample export with 50 rows and masked direct-contact fields.
+> Free BeamStation sample export with 40 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `488326` |
 | Location | Beaverton |
 | Category | Restaurants |
-| Full dataset size | 508 records |
-| Free sample size | 50 records (9.84%) |
-| Last export | 2026-04-09T10:31:57.944497+00:00 |
+| Full dataset size | 402 records |
+| Free sample size | 40 records (9.95%) |
+| Last export | 2026-04-16T10:24:37.593177+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-beaverton-oregon-us-sample-488326/releases/download/sample-latest/beamstation_488326_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
